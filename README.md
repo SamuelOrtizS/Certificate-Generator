@@ -6,7 +6,7 @@ Aplicación web para la generación masiva de certificados en formato **PDF A4 H
 
 ## 🌟 Características Principales
 
-- **📄 Plantilla Flexible:** Carga plantillas en formato de imagen (`.jpg`, `.jpeg`, `.png`, `.webp`) o documentos `.pdf`. Cuenta con un botón para precargar la plantilla oficial del **Encuentro Andino de Ciberseguridad - IEEE ComSoc**.
+- **📄 Plantilla Flexible:** Carga plantillas en formato de imagen (`.jpg`, `.jpeg`, `.png`, `.webp`) o documentos `.pdf`. Cuenta con un botón para precargar una plantilla de ejemplo.
 - **🎯 Área Segura Interactiva:** Selecciona y ajusta el área donde irá el nombre del participante arrastrando y redimensionando con 8 controles de ajuste sobre la previsualización en tiempo real.
 - **🖋️ Tipografías Dinámicas:**
   - Fuente predeterminada: **Allura** (caligráfica elegante de Google Fonts).
